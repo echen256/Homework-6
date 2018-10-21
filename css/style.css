@@ -1,0 +1,36 @@
+.left {
+    float: left;
+}
+
+.answerHeader{
+    margin-right:10px;
+}
+
+.timerStyle{
+    font-size: 36pt;
+    font-weight: strong;
+    
+}
+
+#questionContainer{
+    font-size: 24pt;
+}
+
+.answerContainer:hover{
+    background-color: grey;
+}
+
+div {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.outer{
+    background-color: #333;
+}
+
+.inner{
+    background-color: whitesmoke;
+    border-width: 20px;
+    border-style: solid;
+    border-color:grey;
+}
